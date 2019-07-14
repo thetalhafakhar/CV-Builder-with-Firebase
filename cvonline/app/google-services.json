@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1041475848306",
+    "firebase_url": "https://projectcvnew.firebaseio.com",
+    "project_id": "projectcvnew",
+    "storage_bucket": "projectcvnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041475848306:android:aa9a1b8fc6eb5c33",
+        "android_client_info": {
+          "package_name": "com.example.talhafakhar.cvonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041475848306-1ieuq5eb0rjrbkfou84irourncr9nh7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talhafakhar.cvonline",
+            "certificate_hash": "12f01a54b7282ebf56e76ec2ce08adfedccebcd0"
+          }
+        },
+        {
+          "client_id": "1041475848306-iqa78ujfh09dbdkofkpfbtpslpc8tg7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5Z9dZ4b2w6n-KUgixsq9NWGT6j6mMPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041475848306-iqa78ujfh09dbdkofkpfbtpslpc8tg7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
